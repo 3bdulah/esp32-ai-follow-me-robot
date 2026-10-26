@@ -86,9 +86,9 @@ See `images/architecture_diagram.png` for the full visual flow.
 
 ## 👥 Team Members
 
-* Abdullah Hani Abdellatif Al-Shobaki – 2284612
-* Mohamed Aiman Mohamed Alkozendar – 2283149
-* Mohammed Ahmed Mohammed Al-labani – 2105990
+* Abdullah Hani Abdellatif Al-Shobaki
+* Mohamed Aiman Mohamed Alkozendar
+* Mohammed Ahmed Mohammed Al-labani
 
 Special thanks to:
 
